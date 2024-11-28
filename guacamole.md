@@ -10,3 +10,4 @@
 *smash avocado
 *add salt
 *add lime
+*add garlic
