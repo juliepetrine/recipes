@@ -2,7 +2,6 @@
 ## Ingredients
 *avocado
 *salt
-*pepper
 *lime juice
 *garlic
 ## Instructions
