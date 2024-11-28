@@ -3,6 +3,7 @@
 *avocado
 *salt
 *lime juice
+*test
 *garlic
 ## Instructions
 *smash avocado
