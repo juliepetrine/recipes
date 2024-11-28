@@ -4,6 +4,7 @@
 *salt
 *lime juice
 *garlic
+*pepper
 ## Instructions
 *smash avocado
 *add salt
