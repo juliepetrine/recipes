@@ -5,6 +5,7 @@
 *lime juice
 *test
 *garlic
+*pepper
 ## Instructions
 *smash avocado
 *add salt
