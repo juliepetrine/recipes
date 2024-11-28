@@ -2,7 +2,8 @@
 ## Ingredients
 *avocado
 *salt
-*lime
+*pepper
+*lime juice
 ## Instructions
 *smash avocado
 *add salt
